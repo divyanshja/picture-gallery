@@ -1,0 +1,26 @@
+ body
+{
+    font-family:sans-serif;
+    background-image: url("21.jpg")
+}
+h1
+{
+  color: forestgreen;
+  margin:30px 0 50px;     
+}
+.gallery
+{
+margin:10px 50px;
+
+}
+.gallery img
+{
+filter: grayscale(100%);
+transition: 1s;
+}
+.gallery img:hover
+{
+  filter: grayscale(0);
+  transform:scale(1.2);
+}
+
