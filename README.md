@@ -1,2 +1,2 @@
 # picture-gallery
-basic use of html ,css and js
+basic use of js ,css and html
